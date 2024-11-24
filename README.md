@@ -14,8 +14,8 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the LANG X repository:
    ```bash
-   git clone https://github.com/kel404x/lang-x.git
-   cd lang-x
+   git clone https://github.com/kel404x/LANG_X.git
+   cd LANG_X
    ```
 
 2. Install dependencies:
